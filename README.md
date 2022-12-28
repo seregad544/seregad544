@@ -1,4 +1,6 @@
 ![Header](./github-header-image.png)
+## About Me:
+
 ## languages and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,jest&perline=12)](https://skillicons.dev)
