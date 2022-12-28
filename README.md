@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,jest&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,jest&perline=12)](https://skillicons.dev)
 <!--
 **seregad544/seregad544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
