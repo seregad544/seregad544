@@ -1,5 +1,4 @@
-![Header](./github-header-image.png)
-## About Me:
+
 
 ## languages and tools:
 
