@@ -2,9 +2,9 @@
 
 I'm a Frontend Developer, currently looking for a job.
 
-CV: https://voronezh.hh.ru/resume/fe39cf06ff09a3a8c70039ed1f333675586778
+CV:
 
-How to reach me: https://t.me/antipovSerg
+How to reach me: 
 
 ### My tech stack:
 
